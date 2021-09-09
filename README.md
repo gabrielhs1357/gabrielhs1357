@@ -1,16 +1,39 @@
-### Hi there 👋
+### Sobre mim
 
-<!--
-**gabrielhs1357/gabrielhs1357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fui Inserido no mercado em 2019 com uma oportunidade de estágio, e não parei desde então! Atualmente trabalho utilizando .NET Core, Azure e SQL Server.
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experiência
+
+- Metodologia ágil Scrum
+- Versionamento de código com Git
+- APIs Rest
+- .NET
+- SQL Server
+- Docker
+- Microsserviços
+- DDD
+
+<hr>
+
+### Conhecimentos adicionais
+
+- JavaScript
+- TypeScript
+- Node.js
+- MongoDB
+- Express.js
+- Puppeteer
+
+<hr>
+
+### Status
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhs1357)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
+### Let's keep in touch!
+
+[linktr.ee/gabrielhs1357](https://linktr.ee/gabrielhs1357)
