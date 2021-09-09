@@ -30,7 +30,7 @@ Fui Inserido no mercado em 2019 com uma oportunidade de estágio, e não parei d
 
 ### Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhs1357?theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhs1357)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
