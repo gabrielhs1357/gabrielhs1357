@@ -10,6 +10,7 @@ Fui Inserido no mercado em 2019 com uma oportunidade de estágio, e não parei d
 - Versionamento de código com Git
 - APIs Rest
 - .NET
+- Azure
 - SQL Server
 - Docker
 - Microsserviços
