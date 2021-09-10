@@ -1,6 +1,6 @@
 ### Sobre mim
 
-Fui Inserido no mercado em 2019 com uma oportunidade de estágio, e não parei mais desde então! Atualmente trabalho utilizando .NET Core, Azure e SQL Server.
+Fui Inserido no mercado em 2019 com uma oportunidade de estágio, e desde então não parei mais! Atualmente trabalho utilizando .NET, Azure e SQL Server.
 
 <hr>
 
