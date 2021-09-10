@@ -8,7 +8,7 @@ Fui Inserido no mercado em 2019 com uma oportunidade de estágio, e desde então
 
 - Metodologia ágil Scrum
 - Versionamento de código com Git
-- APIs Rest
+- APIs REST
 - C#
 - .NET
 - Azure
