@@ -1,25 +1,25 @@
-### Sobre mim
+### About me
 
-Fui Inserido no mercado em 2019 com uma oportunidade de estágio e desde então não parei mais! Atualmente trabalho utilizando .NET, Azure e SQL Server.
+I started working in 2019 with an internship opportunity and I haven't stopped ever since! I'm currently working using .NET, Azure and SQL Server.
 
 <hr>
 
-### Experiência
+### Background
 
-- Metodologia ágil Scrum
-- Versionamento de código com Git
-- APIs REST
+- Scrum
+- Git
+- REST APIs
 - C#
 - .NET
 - Azure
 - SQL Server
 - Docker
-- Microsserviços
+- Microservices
 - DDD
 
 <hr>
 
-### Conhecimentos adicionais
+### Additional knowledge
 
 - JavaScript
 - TypeScript
@@ -30,7 +30,7 @@ Fui Inserido no mercado em 2019 com uma oportunidade de estágio e desde então 
 
 <hr>
 
-### Meu GitHub
+### My GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhs1357)](https://github.com/anuraghazra/github-readme-stats)
 
