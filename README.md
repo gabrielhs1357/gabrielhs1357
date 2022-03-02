@@ -22,7 +22,6 @@ I started working in 2019 with an internship opportunity and I haven't stopped e
 ### Additional knowledge
 
 - JavaScript
-- TypeScript
 - Node.js
 - MongoDB
 - Express.js
