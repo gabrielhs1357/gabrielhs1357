@@ -1,6 +1,6 @@
 ### About me
 
-I started working in 2019 with an internship opportunity and I haven't stopped ever since! I'm currently working using .NET, Azure and SQL Server.
+I'm a Software Engineer with more than 3 years of experience, obsessed with details and quality. I currently work with Python, Java and AWS. I love technology, learning and being challenged.
 
 <hr>
 
@@ -9,20 +9,26 @@ I started working in 2019 with an internship opportunity and I haven't stopped e
 - Scrum
 - Git
 - REST APIs
+- Python
+- Java
+- Node.js
 - C#
 - .NET
 - Azure
+- AWS
 - SQL Server
+- PostgreSQL
 - Docker
-- Microservices
+- Microsserviços
 - DDD
+- TDD
+- International projects
 
 <hr>
 
 ### Additional knowledge
 
 - JavaScript
-- Node.js
 - MongoDB
 - Express.js
 - Puppeteer
