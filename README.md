@@ -1,34 +1,34 @@
 ### About me
 
-I'm a Software Engineer with more than 3 years of experience, obsessed with details and quality. I currently work with Python, Java and AWS. I love technology, learning and being challenged.
+Having worked with full-stack technologies and agile methodology since 2019, I’ve had the opportunity to collaborate with diverse teams and people around the world. I am always focused on delivering clean code, providing what the customer needs, being curious and communicative.
 
 <hr>
 
 ### Background
 
-- Scrum
-- Git
-- REST APIs
 - Python
 - Java
-- Node.js
 - C#
 - .NET
+- JavaScript
+- Node.js
 - Azure
 - AWS
-- SQL Server
 - PostgreSQL
+- SQL Server
 - Docker
 - Microsserviços
 - DDD
 - TDD
 - International projects
+- Rest APIs
+- Git
+- Scrum
 
 <hr>
 
 ### Additional knowledge
 
-- JavaScript
 - MongoDB
 - Express.js
 - Puppeteer
